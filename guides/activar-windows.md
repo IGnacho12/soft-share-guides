@@ -35,7 +35,4 @@ Una forma **rápida y segura** de activar Windows y Office. El metodo a utilzar 
  > ⚠️ **Si vas a Activar Office Importante**
  > Si decides activar office luego deberás presionar el número `2` y esperar.
 
-
-
 5. Esperar a que finalize.
-````
