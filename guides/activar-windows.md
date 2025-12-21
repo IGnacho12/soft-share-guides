@@ -1,7 +1,7 @@
 ---
 title: "Guía para activar cualquier versión de Windows y Microsoft Office permanentemente ⭐"
 description: "Guía sencilla para activar cualquier versión de Windows y/o Microsoft Office"
-cover: "https://www.mediafire.com/convkey/ca58/0hff2zmj2fw839dzg.jpg?size_id=5"
+cover: "http://mediafire.com/convkey/b8c3/xsyp0280vjk1lqmzg.jpg?size_id=b"
 author: "massgravel"
 level: "beginner"
 tags: ["windows", "office", "activación"]
