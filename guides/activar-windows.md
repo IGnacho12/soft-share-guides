@@ -27,7 +27,6 @@ Una forma **rápida y segura** de activar Windows y Office. El metodo a utilzar 
 ```
 
 3. Luego te aparecera la siguiente ventana ↓
-![Texto alternativo](https://www.mediafire.com/convkey/ca58/0hff2zmj2fw839dzg.jpg?size_id=5)
 4. Elige
   - Presiona `1` Si deseas activar Windows
   - Presiona `2` Si deseas activar Office
