@@ -5,8 +5,6 @@ description: Recupera archivos eliminados, dañados o de pendrives que piden for
 cover: https://www.mediafire.com/convkey/695c/2taywys6yha4vi7bg.jpg?size_id=a
 ---
 
-# Recuperar archivos borrados, dañados o inaccesibles
-
  **Este método sirve si:**
 - Borraste archivos por error.
 - Vaciaste la papelera.
