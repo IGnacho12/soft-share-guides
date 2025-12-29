@@ -1,6 +1,6 @@
 ---
-id: recuperar-archivos-de-un-pendrive-que-pide-formateo
-title: Recuperar archivos de un pendrive que pide formateo
+id: recuperar-archivos-borrados-o-innacesibles
+title: Recuperar archivos borrados o innacesibles
 description: Recupera tus archivos del pendrive que pide formateo
 cover: https://www.mediafire.com/convkey/695c/2taywys6yha4vi7bg.jpg?size_id=a
 ---
