@@ -1,5 +1,5 @@
 ---
-id: recuperar-archivos-borrados-o-innacesibles
+id: recuperar-archivos-borrados-o-inaccesibles
 title: Recuperar archivos borrados o inaccesibles
 description: Recupera archivos eliminados, dañados o de pendrives que piden formateo
 cover: https://www.mediafire.com/convkey/695c/2taywys6yha4vi7bg.jpg?size_id=a
