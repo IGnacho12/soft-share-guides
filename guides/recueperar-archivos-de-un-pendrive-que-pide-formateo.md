@@ -1,7 +1,11 @@
 ---
-title: "Recuperar archivos de un pendrive que pide formateo"
-description: "Si tu unidad muestra el error 'Debes formatear el disco', no todo está perdido. Aprende a recuperar tus archivos con nombre y fecha de forma gratuita."
+id: recueperar-archivos-de-un-pendrive-que-pide-formateo
+title: Recuperar archivos de un pendrive que pide formateo
+description: Recupera tus archivos del pendrive que pide formateo
+cover: https://www.mediafire.com/convkey/695c/2taywys6yha4vi7bg.jpg?size_id=a
 ---
+
+
 
 # Recuperar archivos de un pendrive que pide formateo
 

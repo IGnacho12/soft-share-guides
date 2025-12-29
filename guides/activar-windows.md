@@ -1,10 +1,8 @@
 ---
-title: "Guía para activar cualquier versión de Windows y Microsoft Office permanentemente ⭐"
-description: "Guía sencilla para activar cualquier versión de Windows y/o Microsoft Office"
-cover: "https://www.mediafire.com/convkey/a032/afji82tiy2dz9fwzg.jpg?size_id=b"
-author: "massgravel"
-level: "beginner"
-tags: ["windows", "office", "activación"]
+id: activar-windows
+title: Activar Windows 10 y 11
+description: Activá Windows y Office en menos de 1 minuto
+cover: https://www.mediafire.com/convkey/a032/afji82tiy2dz9fwzg.jpg?size_id=b
 ---
 
 Una forma **rápida y segura** de activar Windows y Office. El metodo a utilzar es mucho más confiable y seguro que otros (por ej: KMS Activate) porque el código de lo que estas ejecutando es libre, puedes verlo, modificarlo y distribuirlo. Tiene mucho reconocimiento y visibilidad también.

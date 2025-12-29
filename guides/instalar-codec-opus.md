@@ -1,7 +1,10 @@
 ---
-title: "Instalar Codec Opus Para los Audios de WhatsApp & WINDOWS 10 y 11"
-description: "Solución al error que se presenta a la hora de querer acelear un audio en WhatsApp -> 'Debes tener el códec Opus instalado para poder hacer esto' <-"
+id: instalar-codec-opus
+title: Instalar Codec Opus Para los Audios de WhatsApp & WINDOWS 10 y 11
+description: Solución al error "Debes tener el códec Opus instalado para poder hacer esto"
+cover: https://i.ytimg.com/vi/NOOa8IRfTA4/hqdefault.jpg
 ---
+
 
 <lite-youtube videoid="NOOa8IRfTA4"></lite-youtube>
 
