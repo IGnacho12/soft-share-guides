@@ -1,0 +1,12 @@
+[
+  {
+    "id": "resume-text",
+    "title": "Resumen profesional",
+    "description": "Convierte texto largo en un resumen claro",
+    "content": "Resume el siguiente texto de forma clara:\n\n{{texto}}",
+    "ai": {
+      "name": "ChatGPT",
+      "logo": "https://..."
+    }
+  }
+]
